@@ -36,8 +36,7 @@ const Home = () => {
   }
 
   return (
-    <div className="container">
-      <h2 className="w-100 d-flex justify-content-center p-3"></h2>
+    <div className="container mt-4">
       <div className="row">
         <div className="col-md-4">
           <h3>Entrez vos informations</h3>
