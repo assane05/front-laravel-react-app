@@ -1,0 +1,17 @@
+.taille-icon{
+    width: 1em;
+    height: 1em;
+    font-size: 1.5rem;
+    cursor: pointer;
+    margin: 0.7rem;
+    text-decoration: none;
+}
+.fa-eye{
+    color: #009688;;
+}
+.fa-pencil-square{
+    color: #fd7e14;
+}
+.fa-trash{
+    color: rgb(223, 13, 13);
+}
